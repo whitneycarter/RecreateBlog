@@ -1,0 +1,56 @@
+html {
+    font-family: 'Lato', sans-serif;
+    border: solid 20px #bdc3c7;
+    border-radius: 20px;
+    margin: 75px;
+}
+
+body {
+padding: 20px;
+}
+
+
+h2 {
+    letter-spacing: 3.2px bold;
+    font-size: 48px;
+    color: #3d3d3d;
+    margin: 0px;
+    
+}
+
+p{
+    margin-top: 10px;
+    margin-bottom: 10px;
+    padding-bottom: 15px;
+}
+
+
+#date {
+    color: #3498db;
+    text-align: right;
+}
+
+#one {
+    text-align: right;
+    border-bottom: solid 5px #bdc3c7; 
+}
+
+#two {
+    text-align: center;
+    border-bottom: solid 5px #bdc3c7;
+}
+
+#three {
+    text-align: right;
+    border-bottom: solid 10px #bdc3c7;
+}
+
+#four {
+    text-align: right;
+    border-bottom: solid 5px #bdc3c7;
+}
+
+#five {
+    text-align: center;
+    border-bottom: solid 5px #bdc3c7;
+}
